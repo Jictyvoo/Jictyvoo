@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 
 #### Languages:
 
-- HTML, CSS, JS - intermediate
+- HTML, CSS, JS
+- C
 - PHP
 - SQL
 - Python3
