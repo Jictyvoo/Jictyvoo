@@ -11,7 +11,7 @@
 - 🔭 Some interesting projects
   - [Odontoradiosis](https://github.com/Jictyvoo/Odontoradiosis)
   - [V net.html](https://github.com/vlang/v/tree/master/vlib/net/html)
-  - [Thenafter](https://github.com/Jictyvoo/Thenafter)
+  - [ThenafterDart](https://github.com/Jictyvoo/thenafter-dart)
   - [MoonJohn](https://github.com/Jictyvoo/MoonJohn)
   - [MoonStar](https://github.com/Jictyvoo/MoonStar)
   - [Caminhos do Busão](https://github.com/Wrapped-Owls/Caminhos_do_Busao)
@@ -39,14 +39,19 @@ Here are some ideas to get you started:
 - Python3
 - Lua
 - Java
+- Go
 - [V](https://vlang.io/)
 
 #### Frameworks/Engines:
-
-- [Flutter](https://flutter.dev/)
-- [Lumen](https://lumen.laravel.com/)/[Laravel](https://laravel.com/)
-- [LÖVE](https://love2d.org/)
-- [Godot](https://godotengine.org/)
+- Front-end
+  - [Flutter](https://flutter.dev/)
+  - [Angular](https://angular.io)
+- Back-end
+  - [GoFiber](https://github.com/gofiber/fiber)
+  - [Lumen](https://lumen.laravel.com/)/[Laravel](https://laravel.com/)
+- Game engines
+  - [LÖVE](https://love2d.org/)
+  - [Godot](https://godotengine.org/)
 
 #### Github Statistics
 
